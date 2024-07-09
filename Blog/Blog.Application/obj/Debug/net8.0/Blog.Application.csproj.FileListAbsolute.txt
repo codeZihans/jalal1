@@ -1,0 +1,16 @@
+D:\aspnet-b10\src\Blog\Blog.Application\bin\Debug\net8.0\Blog.Application.deps.json
+D:\aspnet-b10\src\Blog\Blog.Application\bin\Debug\net8.0\Blog.Application.dll
+D:\aspnet-b10\src\Blog\Blog.Application\bin\Debug\net8.0\Blog.Application.pdb
+D:\aspnet-b10\src\Blog\Blog.Application\bin\Debug\net8.0\Blog.Domain.dll
+D:\aspnet-b10\src\Blog\Blog.Application\bin\Debug\net8.0\Blog.Domain.pdb
+D:\aspnet-b10\src\Blog\Blog.Application\obj\Debug\net8.0\Blog.Application.csproj.AssemblyReference.cache
+D:\aspnet-b10\src\Blog\Blog.Application\obj\Debug\net8.0\Blog.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\aspnet-b10\src\Blog\Blog.Application\obj\Debug\net8.0\Blog.Application.AssemblyInfoInputs.cache
+D:\aspnet-b10\src\Blog\Blog.Application\obj\Debug\net8.0\Blog.Application.AssemblyInfo.cs
+D:\aspnet-b10\src\Blog\Blog.Application\obj\Debug\net8.0\Blog.Application.csproj.CoreCompileInputs.cache
+D:\aspnet-b10\src\Blog\Blog.Application\obj\Debug\net8.0\Blog.Application.sourcelink.json
+D:\aspnet-b10\src\Blog\Blog.Application\obj\Debug\net8.0\Blog.App.C7D7B2EA.Up2Date
+D:\aspnet-b10\src\Blog\Blog.Application\obj\Debug\net8.0\Blog.Application.dll
+D:\aspnet-b10\src\Blog\Blog.Application\obj\Debug\net8.0\refint\Blog.Application.dll
+D:\aspnet-b10\src\Blog\Blog.Application\obj\Debug\net8.0\Blog.Application.pdb
+D:\aspnet-b10\src\Blog\Blog.Application\obj\Debug\net8.0\ref\Blog.Application.dll

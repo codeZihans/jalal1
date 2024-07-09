@@ -1,0 +1,12 @@
+D:\aspnet-b10\src\Blog\Blog.Domain\bin\Debug\net8.0\Blog.Domain.deps.json
+D:\aspnet-b10\src\Blog\Blog.Domain\bin\Debug\net8.0\Blog.Domain.dll
+D:\aspnet-b10\src\Blog\Blog.Domain\bin\Debug\net8.0\Blog.Domain.pdb
+D:\aspnet-b10\src\Blog\Blog.Domain\obj\Debug\net8.0\Blog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\aspnet-b10\src\Blog\Blog.Domain\obj\Debug\net8.0\Blog.Domain.AssemblyInfoInputs.cache
+D:\aspnet-b10\src\Blog\Blog.Domain\obj\Debug\net8.0\Blog.Domain.AssemblyInfo.cs
+D:\aspnet-b10\src\Blog\Blog.Domain\obj\Debug\net8.0\Blog.Domain.csproj.CoreCompileInputs.cache
+D:\aspnet-b10\src\Blog\Blog.Domain\obj\Debug\net8.0\Blog.Domain.sourcelink.json
+D:\aspnet-b10\src\Blog\Blog.Domain\obj\Debug\net8.0\Blog.Domain.dll
+D:\aspnet-b10\src\Blog\Blog.Domain\obj\Debug\net8.0\refint\Blog.Domain.dll
+D:\aspnet-b10\src\Blog\Blog.Domain\obj\Debug\net8.0\Blog.Domain.pdb
+D:\aspnet-b10\src\Blog\Blog.Domain\obj\Debug\net8.0\ref\Blog.Domain.dll
