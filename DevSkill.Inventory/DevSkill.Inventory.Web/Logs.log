@@ -1,0 +1,68 @@
+2024-07-09 15:39:38.456 +06:00 [INF] Application starting...
+2024-07-09 15:39:38.796 +06:00 [INF] Data Source=localhost;Database=AspNetB10;Integrated Security=false;User ID=sa;Password=root;TrustServerCertificate=True
+2024-07-09 15:39:39.454 +06:00 [FTL] Failed to start application.
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in D:\zahangir-aspnet-b10\DevSkill.Inventory\DevSkill.Inventory.web\Program.cs:line 68
+2024-07-09 16:40:20.786 +06:00 [INF] Application starting...
+2024-07-09 16:40:23.990 +06:00 [INF] Data Source=localhost;Database=AspNetB10;Integrated Security=false;User ID=sa;Password=root;TrustServerCertificate=True
+2024-07-09 16:43:27.768 +06:00 [INF] Application starting...
+2024-07-09 16:43:28.124 +06:00 [INF] Data Source=localhost;Database=AspNetB10;Integrated Security=false;User ID=sa;Password=root;TrustServerCertificate=True
+2024-07-09 16:43:28.717 +06:00 [FTL] Failed to start application.
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in D:\zahangir-aspnet-b10\DevSkill.Inventory\DevSkill.Inventory.web\Program.cs:line 65
+2024-07-09 16:44:56.430 +06:00 [INF] Application starting...
+2024-07-09 16:44:56.751 +06:00 [INF] Data Source=localhost;Database=AspNetB10;Integrated Security=false;User ID=sa;Password=root;TrustServerCertificate=True
+2024-07-09 16:44:57.320 +06:00 [FTL] Failed to start application.
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in D:\zahangir-aspnet-b10\DevSkill.Inventory\DevSkill.Inventory.web\Program.cs:line 65
+2024-07-09 17:00:27.344 +06:00 [INF] Application starting...
+2024-07-09 17:00:27.716 +06:00 [INF] Data Source=localhost;Database=AspNetB10;Integrated Security=false;User ID=sa;Password=root;TrustServerCertificate=True
+2024-07-09 17:00:28.364 +06:00 [FTL] Failed to start application.
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in D:\zahangir-aspnet-b10\DevSkill.Inventory\DevSkill.Inventory.web\Program.cs:line 65
+2024-07-09 17:04:07.838 +06:00 [INF] Application starting...
+2024-07-09 17:04:08.189 +06:00 [INF] Data Source=localhost;Database=AspNetB10;Integrated Security=false;User ID=sa;Password=root;TrustServerCertificate=True
+2024-07-09 17:04:08.741 +06:00 [FTL] Failed to start application.
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in D:\zahangir-aspnet-b10\DevSkill.Inventory\DevSkill.Inventory.web\Program.cs:line 65
+2024-07-09 17:11:12.052 +06:00 [INF] Application starting...
+2024-07-09 17:11:12.379 +06:00 [INF] Data Source=localhost;Database=AspNetB10;Integrated Security=false;User ID=sa;Password=root;TrustServerCertificate=True
+2024-07-09 17:11:13.080 +06:00 [FTL] Failed to start application.
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in D:\zahangir-aspnet-b10\DevSkill.Inventory\DevSkill.Inventory.web\Program.cs:line 65

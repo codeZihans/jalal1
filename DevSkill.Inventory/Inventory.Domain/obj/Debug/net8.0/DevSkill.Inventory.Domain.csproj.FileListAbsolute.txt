@@ -1,0 +1,13 @@
+D:\zahangir-aspnet-b10\DevSkill.Inventory\Inventory.Domain\bin\Debug\net8.0\DevSkill.Inventory.Domain.deps.json
+D:\zahangir-aspnet-b10\DevSkill.Inventory\Inventory.Domain\bin\Debug\net8.0\DevSkill.Inventory.Domain.dll
+D:\zahangir-aspnet-b10\DevSkill.Inventory\Inventory.Domain\bin\Debug\net8.0\DevSkill.Inventory.Domain.pdb
+D:\zahangir-aspnet-b10\DevSkill.Inventory\Inventory.Domain\obj\Debug\net8.0\DevSkill.Inventory.Domain.csproj.AssemblyReference.cache
+D:\zahangir-aspnet-b10\DevSkill.Inventory\Inventory.Domain\obj\Debug\net8.0\DevSkill.Inventory.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\zahangir-aspnet-b10\DevSkill.Inventory\Inventory.Domain\obj\Debug\net8.0\DevSkill.Inventory.Domain.AssemblyInfoInputs.cache
+D:\zahangir-aspnet-b10\DevSkill.Inventory\Inventory.Domain\obj\Debug\net8.0\DevSkill.Inventory.Domain.AssemblyInfo.cs
+D:\zahangir-aspnet-b10\DevSkill.Inventory\Inventory.Domain\obj\Debug\net8.0\DevSkill.Inventory.Domain.csproj.CoreCompileInputs.cache
+D:\zahangir-aspnet-b10\DevSkill.Inventory\Inventory.Domain\obj\Debug\net8.0\DevSkill.Inventory.Domain.sourcelink.json
+D:\zahangir-aspnet-b10\DevSkill.Inventory\Inventory.Domain\obj\Debug\net8.0\DevSkill.Inventory.Domain.dll
+D:\zahangir-aspnet-b10\DevSkill.Inventory\Inventory.Domain\obj\Debug\net8.0\refint\DevSkill.Inventory.Domain.dll
+D:\zahangir-aspnet-b10\DevSkill.Inventory\Inventory.Domain\obj\Debug\net8.0\DevSkill.Inventory.Domain.pdb
+D:\zahangir-aspnet-b10\DevSkill.Inventory\Inventory.Domain\obj\Debug\net8.0\ref\DevSkill.Inventory.Domain.dll

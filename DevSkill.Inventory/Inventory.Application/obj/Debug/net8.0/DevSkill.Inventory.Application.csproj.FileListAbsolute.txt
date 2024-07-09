@@ -1,0 +1,16 @@
+D:\zahangir-aspnet-b10\DevSkill.Inventory\Inventory.Application\bin\Debug\net8.0\DevSkill.Inventory.Application.deps.json
+D:\zahangir-aspnet-b10\DevSkill.Inventory\Inventory.Application\bin\Debug\net8.0\DevSkill.Inventory.Application.dll
+D:\zahangir-aspnet-b10\DevSkill.Inventory\Inventory.Application\bin\Debug\net8.0\DevSkill.Inventory.Application.pdb
+D:\zahangir-aspnet-b10\DevSkill.Inventory\Inventory.Application\bin\Debug\net8.0\DevSkill.Inventory.Domain.dll
+D:\zahangir-aspnet-b10\DevSkill.Inventory\Inventory.Application\bin\Debug\net8.0\DevSkill.Inventory.Domain.pdb
+D:\zahangir-aspnet-b10\DevSkill.Inventory\Inventory.Application\obj\Debug\net8.0\DevSkill.Inventory.Application.csproj.AssemblyReference.cache
+D:\zahangir-aspnet-b10\DevSkill.Inventory\Inventory.Application\obj\Debug\net8.0\DevSkill.Inventory.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\zahangir-aspnet-b10\DevSkill.Inventory\Inventory.Application\obj\Debug\net8.0\DevSkill.Inventory.Application.AssemblyInfoInputs.cache
+D:\zahangir-aspnet-b10\DevSkill.Inventory\Inventory.Application\obj\Debug\net8.0\DevSkill.Inventory.Application.AssemblyInfo.cs
+D:\zahangir-aspnet-b10\DevSkill.Inventory\Inventory.Application\obj\Debug\net8.0\DevSkill.Inventory.Application.csproj.CoreCompileInputs.cache
+D:\zahangir-aspnet-b10\DevSkill.Inventory\Inventory.Application\obj\Debug\net8.0\DevSkill.Inventory.Application.sourcelink.json
+D:\zahangir-aspnet-b10\DevSkill.Inventory\Inventory.Application\obj\Debug\net8.0\DevSkill.3F374BE3.Up2Date
+D:\zahangir-aspnet-b10\DevSkill.Inventory\Inventory.Application\obj\Debug\net8.0\DevSkill.Inventory.Application.dll
+D:\zahangir-aspnet-b10\DevSkill.Inventory\Inventory.Application\obj\Debug\net8.0\refint\DevSkill.Inventory.Application.dll
+D:\zahangir-aspnet-b10\DevSkill.Inventory\Inventory.Application\obj\Debug\net8.0\DevSkill.Inventory.Application.pdb
+D:\zahangir-aspnet-b10\DevSkill.Inventory\Inventory.Application\obj\Debug\net8.0\ref\DevSkill.Inventory.Application.dll
